@@ -1,0 +1,28 @@
+name: Perfect Balance Hoof Care
+favicon: null
+layout_spectrum: 0.14481604611501098
+typography_spectrum: 0.05505603435449302
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6582572993356735
+  lightness: 0.2428388544358313
+  saturation: 0.3765882523730397
+  rhythmicContrast: 0.9288764484226704
+purpose: []
