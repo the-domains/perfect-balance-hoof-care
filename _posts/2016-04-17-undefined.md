@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: undefined
-datePublished: '2016-04-17T18:55:21.151Z'
-dateModified: '2016-04-17T18:55:12.576Z'
+description: 'We work for the horse!'
+datePublished: '2016-04-17T18:59:02.752Z'
+dateModified: '2016-04-17T18:55:40.333Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-17-undefined.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-undefined.md
-published: true
 url: undefined/index.html
 _type: Article
 
